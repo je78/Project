@@ -6,4 +6,5 @@ if number>1: // input condition;
           break
     else:
           print(number,"is a prime number")
-    
+    return 0;
+}
